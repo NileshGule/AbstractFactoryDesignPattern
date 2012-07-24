@@ -1,0 +1,134 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportHeader.cs" caret="152" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportFooter.cs" caret="152" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportContent.cs" caret="148" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportHeader.cs" caret="152" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportFooter.cs" caret="152" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportContent.cs" caret="148" fromTop="6" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportContent.cs" caret="114" fromTop="5" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportFooter.cs" caret="112" fromTop="5" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportHeader.cs" caret="112" fromTop="5" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="53" fromTop="2" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportType.cs" caret="53" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportOptions.cs" caret="72" fromTop="2" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportOptions.cs" caret="53" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportType.cs" caret="72" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportHeader.cs" caret="101" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportContent.cs" caret="102" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportFooter.cs" caret="101" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportGenerator.cs" caret="0" fromTop="0" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:TextReportGenerator.cs" caret="234" fromTop="8" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="46" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportGenerator.cs" caret="467" fromTop="19" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportGeneratorFactory.cs" caret="447" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="338" fromTop="9" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportHeader.cs" caret="154" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportFooter.cs" caret="154" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="465" fromTop="12" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:HTMLReportContent.cs" caret="150" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportHeader.cs" caret="154" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportContent.cs" caret="150" fromTop="6" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="1139" fromTop="21" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="1082" fromTop="21" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:TextReportFooter.cs" caret="154" fromTop="6" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportGenerator.cs" caret="79" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:IReportGenerator.cs" caret="231" fromTop="10" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportGenerator.cs" caret="192" fromTop="8" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportGenerator.cs" caret="310" fromTop="13" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportGenerator.cs" caret="427" fromTop="17" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportWriter.cs" caret="53" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="502" fromTop="34" />
+      <File id="68161C5F-78EC-4ABF-8CBB-33F504100027/f:ReportOptions.cs" caret="53" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportOptions.cs" caret="72" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="126" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportType.cs" caret="115" fromTop="11" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportType.cs" caret="72" fromTop="2" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="172" fromTop="12" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="172" fromTop="15" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportGeneratorFactory.cs" caret="399" fromTop="11" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportGeneratorFactory.cs" caret="456" fromTop="15" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:TextReportGenerator.cs" caret="93" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportGeneratorFactory.cs" caret="116" fromTop="4" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:ReportWriter.cs" caret="482" fromTop="12" />
+      <File id="AAA7AF83-E765-4B07-AF76-14DDFD0C7E8B/f:HTMLReportGenerator.cs" caret="467" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="options" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="reportOptions" priority="2" />
+      <Item value="enum" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="ReportType`0" priority="2" />
+      <Item value="new" priority="6" />
+      <Item value="HTMLReportHeader" priority="0" />
+      <Item value="htmlHeader" priority="0" />
+      <Item value="HTMLReportFooter" priority="0" />
+      <Item value="htmlFooter" priority="0" />
+      <Item value="htmlContent" priority="0" />
+      <Item value="textReportContent" priority="0" />
+      <Item value="textReportFooter" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="IReportGenerator`0" priority="1" />
+      <Item value="reportType" priority="1" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="HTMLReportGenerator`0" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="reportGenerator" priority="3" />
+      <Item value="ReportGeneratorFactory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWIthoutAbstractFactory.ReportOptions">
+      <Item value="ReportType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReportWriterWithAbstractFactory.ReportType">
+      <Item value="HTML" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReportWriterWithAbstractFactory.ReportGeneratorFactory">
+      <Item value="GetReportGenerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWithAbstractFactory.ReportOptions">
+      <Item value="ReportType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWithAbstractFactory.IReportGenerator">
+      <Item value="GetReportHeader`0" priority="0" />
+      <Item value="GetReportContent`0" priority="0" />
+      <Item value="GetReportFooter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWithAbstractFactory.IReportHeader">
+      <Item value="WriteHeaderDetails`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWithAbstractFactory.IReportContent">
+      <Item value="WriteContents`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportWriterWithAbstractFactory.IReportFooter">
+      <Item value="WriteFooterDetails`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
